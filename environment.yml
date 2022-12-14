@@ -1,0 +1,10 @@
+name: rs
+channels:
+  - defaults
+dependencies:
+  - python=3.8.11
+  - numpy=1.21.2
+  - jupyterlab
+  - scikit-learn
+  - scipy
+prefix: C:\Users\elain\anaconda\envs\rs
